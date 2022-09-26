@@ -34,8 +34,8 @@ Le travail se fait uniquement durant les périodes de frontend development, en p
 1. Créez un fork du repository et clonez-le sur votre ordinateur.
 2. Installez le starterkit à l'aide du terminal.
 3. Intégrez la maquette, en faisant régulièrement des commits.
-4. Une fois l'intégration terminée, faites une pull request
-5. Publiez ensuite votre site (dossier _dist_) sur votre hébergement, dans un sous-dossier _film-festival_
+4. Une fois l'intégration terminée, publiez votre site (dossier _dist_) sur votre hébergement, dans un sous-dossier _film-festival_
+5. Faites finalement une pull request
 
 ## Objectifs avancés
 
