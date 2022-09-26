@@ -2,9 +2,6 @@
 // css variables
 // ==================================== */
 
-:root {
-}
-
 /* ====================================
 // reset rules
 // ==================================== */
@@ -42,7 +39,6 @@ video {
 // base rules
 // ==================================== */
 
-
 .header {
   display: flex;
   flex-direction: row;
@@ -72,8 +68,8 @@ h1 {
 }
 
 .article {
-  background: #F6F6F6;
-  box-shadow: 0 5px 0 0 #783DF6;
+  background: #f6f6f6;
+  box-shadow: 0 5px 0 0 #783df6;
   font-family: OpenSans-SemiBold;
   font-size: 20px;
   color: #000000;
@@ -94,3 +90,56 @@ h1 {
   padding: 0px 15px 15px 15px;
 }
 
+.membership {
+  font-family: OpenSans-Regular;
+  font-size: 20px;
+  color: #ffffff;
+  line-height: 28px;
+  background: #000000;
+}
+
+/* finir section ship */
+/* finir films article */
+/* finir bouton view */
+
+footer {
+  background-color: #F9DDE7;
+  padding: 30px;
+  font-family: OpenSans-Regular;
+  font-size: 16px;
+  color: #000000;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.about {
+  display: flex;
+  flex-direction: row;
+}
+
+.article h4 {
+  margin-top: 20px;
+  margin-left: 15px;
+}
+
+.article-2 {
+  background: #F6F6F6;
+  font-family: OpenSans-Regular;
+  font-size: 16px;
+  color: #000000;
+  background: #F6F6F6;
+  line-height: 20px;
+  margin: 0px 5px 5px;
+  padding: 20px 10px;
+}
+
+.articlemini-1 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.articlemini-2 {
+  display: flex;
+  justify-content: space-around;
+}
