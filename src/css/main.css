@@ -1,0 +1,96 @@
+/* ====================================
+// css variables
+// ==================================== */
+
+:root {
+}
+
+/* ====================================
+// reset rules
+// ==================================== */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-size: 1rem;
+  line-height: 1.25;
+}
+
+a {
+  color: inherit;
+}
+
+img,
+video {
+  max-inline-size: 100%;
+  block-size: auto;
+  vertical-align: middle;
+}
+
+/* ====================================
+// base rules
+// ==================================== */
+
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  font-family: OpenSans-Bold;
+  font-size: 16px;
+  color: #000000;
+  text-align: center;
+  line-height: 19px;
+  margin: 5px;
+}
+
+main {
+  margin: 0px 15px;
+}
+
+h2 {
+  margin: 5px;
+}
+
+h1 {
+  margin: 52px 0px 20px;
+  font-family: OpenSans-Bold;
+  font-size: 32px;
+  color: #000000;
+  line-height: 38px;
+}
+
+.article {
+  background: #F6F6F6;
+  box-shadow: 0 5px 0 0 #783DF6;
+  font-family: OpenSans-SemiBold;
+  font-size: 20px;
+  color: #000000;
+  line-height: 24px;
+  font-family: OpenSans-Regular;
+  font-size: 20px;
+  color: #000000;
+  line-height: 28px;
+  margin-bottom: 45px;
+}
+
+.article h3 {
+  margin-top: 20px;
+  margin-left: 15px;
+}
+
+.article p {
+  padding: 0px 15px 15px 15px;
+}
+
