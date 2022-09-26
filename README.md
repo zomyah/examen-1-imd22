@@ -25,7 +25,7 @@ Le non-respect de ces exceptions sera sanctionné par la note 1.
 ## Temps à disposition
 
 Le projet doit être réalisé sur 6 périodes, du lundi 26.09 au mercredi 28.09.
-Le travail se fait uniquement durant les périodes de frontend development, en pas à la maison.
+Le travail se fait uniquement durant les périodes de frontend development, et pas à la maison.
 
 **Un commit doit être réalisé à la fin des 4 premières périodes.**
 
@@ -43,12 +43,12 @@ Des objectifs avancés (positions et javascript) sont proposés dans la maquette
 
 ## Barème
 
-| Critère                                                                    | Points |
-| -------------------------------------------------------------------------- | ------ |
-| Maîtrise de l'environnement de dévloppement (git, starterkit, hébergement) | 4      |
-| Maquette intégrée dans les temps                                           | 4      |
-| Maquette intégrée avec précision                                           | 8      |
-| Réalisation d'un des objectifs avancés                                     | 4      |
-| **Total**                                                                  | **20** |
+| Critère                                                                     | Points |
+| --------------------------------------------------------------------------- | ------ |
+| Maîtrise de l'environnement de développement (git, starterkit, hébergement) | 4      |
+| Maquette intégrée dans les temps                                            | 4      |
+| Maquette intégrée avec précision                                            | 8      |
+| Réalisation d'un des objectifs avancés                                      | 4      |
+| **Total**                                                                   | **20** |
 
 ![](maquette%401x.jpg)
