@@ -67,6 +67,10 @@ h1 {
   line-height: 38px;
 }
 
+h3 {
+  padding: 10px;
+}
+
 .article {
   background: #f6f6f6;
   box-shadow: 0 5px 0 0 #783df6;
@@ -96,11 +100,8 @@ h1 {
   color: #ffffff;
   line-height: 28px;
   background: #000000;
+  padding-bottom: 15px;
 }
-
-/* finir section ship */
-/* finir films article */
-/* finir bouton view */
 
 footer {
   background-color: #F9DDE7;
@@ -111,11 +112,18 @@ footer {
   line-height: 20px;
   display: flex;
   align-items: center;
+  margin-top: 45px;
 }
 
 .about {
   display: flex;
   flex-direction: row;
+  display: flex;
+  justify-content: space-around;
+  font-family: OpenSans-SemiBold;
+  font-size: 16px;
+  line-height: 20px;
+  font-family: OpenSans-Regular;
 }
 
 .article h4 {
@@ -142,4 +150,39 @@ footer {
 .articlemini-2 {
   display: flex;
   justify-content: space-around;
+  font-family: OpenSans-SemiBold;
+  font-size: 16px;
+  line-height: 20px;
+  font-family: OpenSans-Regular;
+  max-width: none;
+}
+
+.paraship {
+  padding: 10px;
+}
+
+.buttonview {
+  background: #000000;
+  font-family: OpenSans-SemiBold;
+  font-size: 20px;
+  color: #FFFFFF;
+  line-height: 24px;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  padding: 20px 32px 19px 30px;
+  width: max-content;
+	margin: 0 auto;
+}
+
+.buttonship {
+  background: #FFFFFF;
+  font-family: OpenSans-SemiBold;
+  font-size: 20px;
+  color: #000000;
+  line-height: 24px;
+  margin: 15px 0px 15px;
+  padding: 21px 30px 14px 28px;
+  width: max-content;
+	margin: 0 auto;
 }
